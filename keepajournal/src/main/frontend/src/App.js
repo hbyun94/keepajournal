@@ -13,6 +13,7 @@ function App() {
     return (
         <div>
             백엔드에서 가져온 데이터입니다 : {hello}
+            <p> 두번째 커밋 연습입니다.</p>
         </div>
     );
 }
